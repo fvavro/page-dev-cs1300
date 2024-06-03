@@ -4,7 +4,7 @@ Project for the CS1300 Development Project.
 
 Link to Vercel App: https://dev-cs1300.vercel.app/.
 
-Link to the project submission:
+Link to the project submission: https://fvavro.github.io/page-dev-cs1300/
 
 In the project directory, you can run:
 
