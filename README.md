@@ -2,7 +2,7 @@
 
 Project for the CS1300 Development Project.
 
-Link to Vercel App: https://cs1300development.vercel.app/.
+Link to Vercel App: https://dev-cs1300.vercel.app/.
 
 Link to the project submission:
 
